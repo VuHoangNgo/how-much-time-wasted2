@@ -9,7 +9,7 @@
             </span>
           </div>
         </v-col>
-      </v-row>sasd
+      </v-row>
 
       <v-row id="searchRow" justify="center" align="center">
         <v-col
