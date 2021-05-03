@@ -8,7 +8,7 @@
               {{ watchtimeSummierung }}
             </span>
           </div>
-        </v-col>
+        </v-col>a
       </v-row>
 
       <v-row id="searchRow" justify="center" align="center">
